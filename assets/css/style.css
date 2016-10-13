@@ -307,7 +307,7 @@ section{
 	text-decoration: none;
 }
 .hide-menu{
-	margin-top: -324px;
+	margin-top: -377px;
 }
 .show-menu{
 	margin-top: 0;
@@ -509,7 +509,7 @@ section{
 .footer{
 	background-color: #202020;
 	text-align: center;
-	padding: 60px;
+	padding: 60px 0;
 }
 .footer span{
 	color: #51c2b9;
