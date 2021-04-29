@@ -1,1 +1,1 @@
-# viraindex.com/Mag/
+https://viraindex.com/Mag/
